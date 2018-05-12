@@ -770,29 +770,15 @@ Une loi organique fixe les conditions d'application du présent article.
 
 ## Article 68-1
 
-Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis.
+Les membres du Gouvernement sont responsables, dans les conditions de droit commun, des actes qui ne se rattachent pas directement à l'exercice de leurs attributions, y compris lorsqu'ils ont été accomplis à l'occasion de l'exercice de leurs fonctions.
 
-Ils sont jugés par la Cour de justice de la République.
+Ils sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. Leur responsabilité ne peut être mise en cause à raison de leur inaction que si le choix de ne pas agir leur est directement et personnellement imputable.
 
-La Cour de justice de la République est liée par la définition des crimes et délits ainsi que par la détermination des peines telles qu'elles résultent de la loi.
+Ils sont poursuivis et jugés devant les formations compétentes, composées de magistrats professionnels, de la cour d'appel de Paris.
 
+Le ministère public, la juridiction d'instruction ou toute personne qui se prétend lésée par un acte mentionné au deuxième alinéa saisit une commission des requêtes comprenant trois magistrats du siège à la Cour de cassation, dont l'un préside la commission, deux membres du Conseil d’État et deux magistrats de la Cour des comptes. La commission apprécie la suite à donner à la procédure et en ordonne soit le classement, soit la transmission au procureur général près la cour d’appel de Paris qui saisit alors la cour.
 
-## Article 68-2
-
-La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur sein et en nombre égal, par l'Assemblée nationale et par le Sénat après chaque renouvellement général ou partiel de ces assemblées et trois magistrats du siège à la Cour de cassation, dont l'un préside la Cour de justice de la République.
-
-Toute personne qui se prétend lésée par un crime ou un délit commis par un membre du Gouvernement dans l'exercice de ses fonctions peut porter plainte auprès d'une commission des requêtes.
-
-Cette commission ordonne soit le classement de la procédure, soit sa transmission au procureur général près la Cour de cassation aux fins de saisine de la Cour de justice de la République.
-
-Le procureur général près la Cour de cassation peut aussi saisir d'office la Cour de justice de la République sur avis conforme de la commission des requêtes.
-
-Une loi organique détermine les conditions d'application du présent article.
-
-
-## Article 68-3
-
-Les dispositions du présent titre sont applicables aux faits commis avant son entrée en vigueur.
+La loi organique détermine les conditions d'application du présent article.
 
 
 # Titre XI : Le Conseil économique, social et environnemental
