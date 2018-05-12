@@ -715,11 +715,11 @@ La formation compétente à l'égard des magistrats du parquet est présidée pa
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
 
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les nominations qui concernent les magistrats du parquet.
+Les magistrats du parquet sont nommés sur l'avis conforme de la formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet.
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. Elle comprend alors, outre les membres visés au deuxième alinéa, le magistrat du siège appartenant à la formation compétente à l'égard des magistrats du parquet.
 
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
+La formation du Conseil supérieur de la magistrature compétente à l’égard des magistrats du parquet statue comme conseil de discipline des magistrats du parquet. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
 
 Le Conseil supérieur de la magistrature se réunit en formation plénière pour répondre aux demandes d'avis formulées par le Président de la République au titre de l'article 64. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le ministre de la justice. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
 
