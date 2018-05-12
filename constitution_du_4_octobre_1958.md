@@ -358,7 +358,7 @@ La loi détermine les principes fondamentaux :
 
 -de l'enseignement ;
 
--de la préservation de l'environnement ;
+-de la préservation de l'environnement et de l’action contre les changements climatiques ;
 
 -du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 
