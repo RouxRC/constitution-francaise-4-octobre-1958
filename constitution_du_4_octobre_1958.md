@@ -781,25 +781,37 @@ Le ministère public, la juridiction d'instruction ou toute personne qui se pré
 La loi organique détermine les conditions d'application du présent article.
 
 
-# Titre XI : Le Conseil économique, social et environnemental
+# Titre XI : La chambre de la société civile
 
 ## Article 69
 
-Le Conseil économique, social et environnemental, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de loi qui lui sont soumis.
+La Chambre de la société civile éclaire le Gouvernement et le Parlement, après avoir organisé la consultation du public, sur les enjeux économiques, sociaux et environnementaux et sur les conséquences à long terme des décisions prises par les pouvoirs publics.
 
-Un membre du Conseil économique, social et environnemental peut être désigné par celui-ci pour exposer devant les assemblées parlementaires l'avis du Conseil sur les projets ou propositions qui lui ont été soumis.
+Elle est composée de représentants de la société civile dont le nombre ne peut excéder cent-cinquante-cinq.
 
-Le Conseil économique, social et environnemental peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.
+La loi organique fixe les modalités d'application du présent article, notamment la composition et les règles de fonctionnement de la Chambre de la société civile.
 
 
 ## Article 70
 
-Le Conseil économique, social et environnemental peut être consulté par le Gouvernement et le Parlement sur tout problème de caractère économique, social ou environnemental. Le Gouvernement peut également le consulter sur les projets de loi de programmation définissant les orientations pluriannuelles des finances publiques. Tout plan ou tout projet de loi de programmation à caractère économique, social ou environnemental lui est soumis pour avis.
+La Chambre de la société civile peut être saisie par voie de pétition dans les conditions fixées par la loi organique. Après examen de la pétition, elle fait connaître au Gouvernement et au Parlement les suites qu'elle propose d'y donner. La loi organique détermine les conditions dans lesquelles les assemblées parlementaires prennent en considération ces pétitions et les suites que la Chambre propose d'y donner.
 
 
 ## Article 71
 
-La composition du Conseil économique, social et environnemental, dont le nombre de membres ne peut excéder deux cent trente-trois, et ses règles de fonctionnement sont fixées par une loi organique.
+La Chambre de la société civile est consultée sur les projets de loi ayant un objet économique, social ou environnemental.
+
+Elle peut être consultée par le Gouvernement sur les projets de loi de finances, les projets de loi de financement de la sécurité sociale, les projets de loi de programmation définissant les orientations pluriannuelles des finances publiques, les projets de loi pris en application des articles 38, 53, 73 ou 74-1, ou tout autre projet de loi, d'ordonnance ou de décret.
+
+Elle peut être consultée par les assemblées parlementaires sur les propositions de loi.
+
+Dans les cas prévus aux alinéas précédents, la Chambre de la société civile est consultée avant l'examen du texte par le Conseil d'État.
+
+La Chambre de la société civile peut désigner un de ses membres pour exposer devant les assemblées parlementaires son avis sur les projets ou propositions qui lui ont été soumis.
+
+Elle peut être consultée par le Gouvernement et le Parlement sur toute question à caractère économique, social ou environnemental.
+
+La loi organique détermine les conditions d'application du présent article.
 
 
 # Titre XI bis : Le Défenseur des droits
