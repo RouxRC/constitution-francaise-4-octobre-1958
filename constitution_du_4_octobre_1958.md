@@ -458,6 +458,8 @@ La discussion en séance, en première lecture, d'un projet ou d'une proposition
 
 L'alinéa précédent ne s'applique pas si la procédure accélérée a été engagée dans les conditions prévues à l'article 45. Il ne s'applique pas non plus aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale et aux projets relatifs aux états de crise.
 
+La loi organique détermine les conditions dans lesquelles les projets et les propositions de loi adoptés, en présence du Gouvernement, par la commission saisie en application de l'article 43 sont, en tout ou partie, seuls mis en discussion en séance. Le droit d'amendement sur les articles relevant de cette procédure s'exerce uniquement en commission.
+
 
 ## Article 43
 
