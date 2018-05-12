@@ -441,9 +441,11 @@ Les propositions et amendements formulés par les membres du Parlement ne sont p
 
 ## Article 41
 
-S'il apparaît au cours de la procédure législative qu'une proposition ou un amendement n'est pas du domaine de la loi ou est contraire à une délégation accordée en vertu de l'article 38, le Gouvernement ou le président de l'assemblée saisie peut opposer l'irrecevabilité.
+Les propositions de loi ou les amendements qui ne sont pas du domaine de la loi ou qui, hors le cas des lois de programmation, sont dépourvus de portée normative, et les amendements qui sont sans lien direct avec le texte déposé ou transmis en première lecture ne sont pas recevables.
 
-En cas de désaccord entre le Gouvernement et le Président de l'Assemblée intéressée, le Conseil constitutionnel, à la demande de l'un ou de l'autre, statue dans un délai de huit jours.
+S'il apparaît au cours de la procédure législative qu'une proposition de loi ou un amendement est contraire à une habilitation accordée en vertu de l'article 38, le Gouvernement ou le président de l'assemblée saisie peut opposer l'irrecevabilité.
+
+En cas de désaccord entre le Gouvernement et le Président de l'Assemblée intéressée sur une irrecevabilité au titre de l’un des cas prévus aux deux alinéas précédents, le Conseil constitutionnel, à la demande de l'un ou de l'autre, statue dans un délai de trois jours pour les amendements et de huit jours pour les propositions de loi, dans les conditions fixées par la loi organique.
 
 
 ## Article 42
@@ -475,7 +477,7 @@ Si le Gouvernement le demande, l'Assemblée saisie se prononce par un seul vote 
 
 ## Article 45
 
-Tout projet ou proposition de loi est examiné successivement dans les deux Assemblées du Parlement en vue de l'adoption d'un texte identique. Sans préjudice de l'application des articles 40 et 41, tout amendement est recevable en première lecture dès lors qu'il présente un lien, même indirect, avec le texte déposé ou transmis.
+Tout projet ou proposition de loi est examiné successivement dans les deux Assemblées du Parlement en vue de l'adoption d'un texte identique.
 
 Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une proposition de loi n'a pu être adopté après deux lectures par chaque Assemblée ou, si le Gouvernement a décidé d'engager la procédure accélérée sans que les Conférences des présidents s'y soient conjointement opposées, après une seule lecture par chacune d'entre elles, le Premier ministre ou, pour une proposition de loi, les présidents des deux assemblées agissant conjointement, ont la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
