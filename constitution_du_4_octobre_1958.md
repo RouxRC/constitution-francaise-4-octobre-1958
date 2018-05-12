@@ -886,6 +886,15 @@ Aucun changement, pour tout ou partie de l'une des collectivités mentionnées a
 Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut décider de consulter les électeurs d'une collectivité territoriale située outre-mer sur une question relative à son organisation, à ses compétences ou à son régime législatif. Lorsque la consultation porte sur un changement prévu à l'alinéa précédent et est organisée sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
 
 
+## Article 72-5
+
+La Corse est une collectivité à statut particulier au sens du premier alinéa de l'article 72.
+
+Les lois et règlements peuvent comporter des règles adaptées aux spécificités liées à son insularité ainsi qu'à ses caractéristiques géographiques, économiques ou sociales.
+
+Sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, ces adaptations peuvent être décidées par la collectivité de Corse dans les matières où s'exercent ses compétences et si elle y a été habilitée, selon le cas, par la loi ou le règlement. Ces adaptations sont décidées dans les conditions prévues par la loi organique.
+
+
 ## Article 73
 
 Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
