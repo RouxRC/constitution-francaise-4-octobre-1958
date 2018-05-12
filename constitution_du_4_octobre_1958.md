@@ -544,7 +544,7 @@ Deux semaines de séance sur quatre sont réservées par priorité, et dans l'or
 
 En outre, l'examen des projets de loi de finances, des projets de loi de financement de la sécurité sociale, des textes relatifs à la politique économique, sociale ou environnementale, déclarés prioritaires par le Gouvernement sans que les Conférences des présidents s'y soient conjointement opposées, des textes transmis par l'autre assemblée depuis six semaines au moins, des projets relatifs aux états de crise et des demandes d'autorisation visées à l'article 35 est, à la demande du Gouvernement, inscrit à l'ordre du jour par priorité.
 
-Une semaine de séance sur quatre est réservée par priorité et dans l'ordre fixé par chaque assemblée au contrôle de l'action du Gouvernement et à l'évaluation des politiques publiques.
+Une semaine de séance sur quatre est réservée par priorité et dans l'ordre fixé par chaque assemblée au contrôle de l'action du Gouvernement, à l'évaluation des politiques publiques et à l'examen des projets ou propositions de loi qui en résultent. À cette fin, la Conférence des présidents arrête le programme de contrôle et d'évaluation de l'assemblée concernée.
 
 Un jour de séance par mois est réservé à un ordre du jour arrêté par chaque assemblée à l'initiative des groupes d'opposition de l'assemblée intéressée ainsi qu'à celle des groupes minoritaires.
 
