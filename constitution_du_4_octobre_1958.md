@@ -899,15 +899,15 @@ Sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté
 
 Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
 
-Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées selon le cas, par la loi ou par le règlement.
+Sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, les collectivités régies par le présent article peuvent, à leur demande, être habilitées par décret en conseil des ministres après avis du Conseil d'État, à fixer elles-mêmes les règles applicables sur leur territoire dans un nombre limité de matières pouvant relever du domaine de la loi ou du règlement.
 
-Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées, selon le cas, par la loi ou par le règlement, à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi ou du règlement.
+Ces habilitations sont confiées dans les conditions fixées par la loi organique.
 
 Ces règles ne peuvent porter sur la nationalité, les droits civiques, les garanties des libertés publiques, l'état et la capacité des personnes, l'organisation de la justice, le droit pénal, la procédure pénale, la politique étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et les changes, ainsi que le droit électoral. Cette énumération pourra être précisée et complétée par une loi organique.
 
-La disposition prévue aux deux précédents alinéas n'est pas applicable au département et à la région de La Réunion.
+Pour le département et la région de La Réunion, les habilitations prévues au deuxième alinéa s'appliquent uniquement dans les matières relevant de leurs compétences.
 
-Les habilitations prévues aux deuxième et troisième alinéas sont décidées, à la demande de la collectivité concernée, dans les conditions et sous les réserves prévues par une loi organique. Elles ne peuvent intervenir lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti.
+Chaque session ordinaire, le Gouvernement dépose un projet de loi de ratification des actes des collectivités pris en application du deuxième alinéa dans le domaine de la loi. Ces actes deviennent caducs en l'absence de ratification par le Parlement dans le délai de vingt-quatre mois suivant l'habilitation.
 
 La création par la loi d'une collectivité se substituant à un département et une région d'outre-mer ou l'institution d'une assemblée délibérante unique pour ces deux collectivités ne peut intervenir sans qu'ait été recueilli, selon les formes prévues au second alinéa de l'article 72-4, le consentement des électeurs inscrits dans le ressort de ces collectivités.
 
