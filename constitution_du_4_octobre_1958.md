@@ -485,7 +485,7 @@ Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une 
 
 Le texte élaboré par la commission mixte peut être soumis par le Gouvernement pour approbation aux deux Assemblées. Aucun amendement n'est recevable sauf accord du Gouvernement.
 
-Si la commission mixte ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté dans les conditions prévues à l'alinéa précédent, le Gouvernement peut, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, demander à l'Assemblée nationale de statuer définitivement. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
+Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté par l'une des assemblées dans les conditions prévues à l'alinéa précédent, le Gouvernement peut demander à l'Assemblée nationale de statuer définitivement. Dans ce cas, le Sénat statue dans les quinze jours suivant cette demande sur le dernier texte voté par l'Assemblée nationale. L'Assemblée nationale statue sur le dernier texte voté par elle dans les huit jours suivant la date à laquelle le Sénat a statué. Hors les amendements adoptés par le Sénat, seuls sont alors recevables, avec l’accord du Gouvernement, les amendements déposés au Sénat.
 
 
 ## Article 46
