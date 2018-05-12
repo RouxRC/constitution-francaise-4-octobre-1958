@@ -178,7 +178,7 @@ Le Parlement se réunit de plein droit.
 
 L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs exceptionnels.
 
-Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
+Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, quarante députés ou quarante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
 
 
 ## Article 17
@@ -234,6 +234,8 @@ Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de to
 Une loi organique fixe les conditions dans lesquelles il est pourvu au remplacement des titulaires de tels mandats, fonctions ou emplois.
 
 Le remplacement des membres du Parlement a lieu conformément aux dispositions de l'article 25.
+
+Les fonctions de membre du Gouvernement sont également incompatibles, dans les conditions fixées par la loi organique, avec l’exercice d’une fonction exécutive ou de présidence d’assemblée délibérante au sein des collectivités régies par les titres XII et XIII, de leurs groupements et de certaines personnes morales qui en dépendent.
 
 
 # Titre IV : Le Parlement
@@ -356,7 +358,7 @@ La loi détermine les principes fondamentaux :
 
 -de l'enseignement ;
 
--de la préservation de l'environnement ;
+-de la préservation de l'environnement et de l’action contre les changements climatiques ;
 
 -du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 
@@ -439,9 +441,11 @@ Les propositions et amendements formulés par les membres du Parlement ne sont p
 
 ## Article 41
 
-S'il apparaît au cours de la procédure législative qu'une proposition ou un amendement n'est pas du domaine de la loi ou est contraire à une délégation accordée en vertu de l'article 38, le Gouvernement ou le président de l'assemblée saisie peut opposer l'irrecevabilité.
+Les propositions de loi ou les amendements qui ne sont pas du domaine de la loi ou qui, hors le cas des lois de programmation, sont dépourvus de portée normative, et les amendements qui sont sans lien direct avec le texte déposé ou transmis en première lecture ne sont pas recevables.
 
-En cas de désaccord entre le Gouvernement et le Président de l'Assemblée intéressée, le Conseil constitutionnel, à la demande de l'un ou de l'autre, statue dans un délai de huit jours.
+S'il apparaît au cours de la procédure législative qu'une proposition de loi ou un amendement est contraire à une habilitation accordée en vertu de l'article 38, le Gouvernement ou le président de l'assemblée saisie peut opposer l'irrecevabilité.
+
+En cas de désaccord entre le Gouvernement et le Président de l'Assemblée intéressée sur une irrecevabilité au titre de l’un des cas prévus aux deux alinéas précédents, le Conseil constitutionnel, à la demande de l'un ou de l'autre, statue dans un délai de trois jours pour les amendements et de huit jours pour les propositions de loi, dans les conditions fixées par la loi organique.
 
 
 ## Article 42
@@ -453,6 +457,8 @@ Toutefois, la discussion en séance des projets de révision constitutionnelle, 
 La discussion en séance, en première lecture, d'un projet ou d'une proposition de loi ne peut intervenir, devant la première assemblée saisie, qu'à l'expiration d'un délai de six semaines après son dépôt. Elle ne peut intervenir, devant la seconde assemblée saisie, qu'à l'expiration d'un délai de quatre semaines à compter de sa transmission.
 
 L'alinéa précédent ne s'applique pas si la procédure accélérée a été engagée dans les conditions prévues à l'article 45. Il ne s'applique pas non plus aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale et aux projets relatifs aux états de crise.
+
+La loi organique détermine les conditions dans lesquelles les projets et les propositions de loi adoptés, en présence du Gouvernement, par la commission saisie en application de l'article 43 sont, en tout ou partie, seuls mis en discussion en séance. Le droit d'amendement sur les articles relevant de cette procédure s'exerce uniquement en commission.
 
 
 ## Article 43
@@ -473,13 +479,13 @@ Si le Gouvernement le demande, l'Assemblée saisie se prononce par un seul vote 
 
 ## Article 45
 
-Tout projet ou proposition de loi est examiné successivement dans les deux Assemblées du Parlement en vue de l'adoption d'un texte identique. Sans préjudice de l'application des articles 40 et 41, tout amendement est recevable en première lecture dès lors qu'il présente un lien, même indirect, avec le texte déposé ou transmis.
+Tout projet ou proposition de loi est examiné successivement dans les deux Assemblées du Parlement en vue de l'adoption d'un texte identique.
 
 Lorsque, par suite d'un désaccord entre les deux Assemblées, un projet ou une proposition de loi n'a pu être adopté après deux lectures par chaque Assemblée ou, si le Gouvernement a décidé d'engager la procédure accélérée sans que les Conférences des présidents s'y soient conjointement opposées, après une seule lecture par chacune d'entre elles, le Premier ministre ou, pour une proposition de loi, les présidents des deux assemblées agissant conjointement, ont la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.
 
 Le texte élaboré par la commission mixte peut être soumis par le Gouvernement pour approbation aux deux Assemblées. Aucun amendement n'est recevable sauf accord du Gouvernement.
 
-Si la commission mixte ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté dans les conditions prévues à l'alinéa précédent, le Gouvernement peut, après une nouvelle lecture par l'Assemblée nationale et par le Sénat, demander à l'Assemblée nationale de statuer définitivement. En ce cas, l'Assemblée nationale peut reprendre soit le texte élaboré par la commission mixte, soit le dernier texte voté par elle, modifié le cas échéant par un ou plusieurs des amendements adoptés par le Sénat.
+Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté par l'une des assemblées dans les conditions prévues à l'alinéa précédent, le Gouvernement peut demander à l'Assemblée nationale de statuer définitivement. Dans ce cas, le Sénat statue dans les quinze jours suivant cette demande sur le dernier texte voté par l'Assemblée nationale. L'Assemblée nationale statue sur le dernier texte voté par elle dans les huit jours suivant la date à laquelle le Sénat a statué. Hors les amendements adoptés par le Sénat, seuls sont alors recevables, avec l’accord du Gouvernement, les amendements déposés au Sénat.
 
 
 ## Article 46
@@ -499,24 +505,28 @@ Les lois organiques ne peuvent être promulguées qu'après déclaration par le 
 
 Le Parlement vote les projets de loi de finances dans les conditions prévues par une loi organique.
 
-Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de quarante jours après le dépôt d'un projet, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à l'article 45.
+Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de vingt-cinq jours après le dépôt d'un projet, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à l'article 45.
 
-Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les dispositions du projet peuvent être mises en vigueur par ordonnance.
+Si le Parlement ne s'est pas prononcé dans un délai de cinquante jours, les dispositions du projet peuvent être mises en vigueur par ordonnance.
 
 Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le Gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés.
 
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
+
+La loi organique détermine les conditions dans lesquelles les commissions permanentes de chaque assemblée entendent les membres du Gouvernement sur l'exécution de la loi de finances.
 
 
 ## Article 47-1
 
 Le Parlement vote les projets de loi de financement de la sécurité sociale dans les conditions prévues par une loi organique.
 
-Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de vingt jours après le dépôt d'un projet, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à l'article 45.
+Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de vingt-cinq jours après le dépôt d'un projet, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à l'article 45.
 
 Si le Parlement ne s'est pas prononcé dans un délai de cinquante jours, les dispositions du projet peuvent être mises en oeuvre par ordonnance.
 
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session et, pour chaque assemblée, au cours des semaines où elle a décidé de ne pas tenir séance, conformément au deuxième alinéa de l'article 28.
+
+Les projets de loi de financement de la sécurité sociale et de finances peuvent être examinés conjointement, en tout ou partie, dans les conditions fixées par la loi organique.
 
 
 ## Article 47-2
@@ -532,9 +542,9 @@ Sans préjudice de l'application des trois derniers alinéas de l'article 28, l'
 
 Deux semaines de séance sur quatre sont réservées par priorité, et dans l'ordre que le Gouvernement a fixé, à l'examen des textes et aux débats dont il demande l'inscription à l'ordre du jour.
 
-En outre, l'examen des projets de loi de finances, des projets de loi de financement de la sécurité sociale et, sous réserve des dispositions de l'alinéa suivant, des textes transmis par l'autre assemblée depuis six semaines au moins, des projets relatifs aux états de crise et des demandes d'autorisation visées à l'article 35 est, à la demande du Gouvernement, inscrit à l'ordre du jour par priorité.
+En outre, l'examen des projets de loi de finances, des projets de loi de financement de la sécurité sociale, des textes relatifs à la politique économique, sociale ou environnementale, déclarés prioritaires par le Gouvernement sans que les Conférences des présidents s'y soient conjointement opposées, des textes transmis par l'autre assemblée depuis six semaines au moins, des projets relatifs aux états de crise et des demandes d'autorisation visées à l'article 35 est, à la demande du Gouvernement, inscrit à l'ordre du jour par priorité.
 
-Une semaine de séance sur quatre est réservée par priorité et dans l'ordre fixé par chaque assemblée au contrôle de l'action du Gouvernement et à l'évaluation des politiques publiques.
+Une semaine de séance sur quatre est réservée par priorité et dans l'ordre fixé par chaque assemblée au contrôle de l'action du Gouvernement, à l'évaluation des politiques publiques et à l'examen des projets ou propositions de loi qui en résultent. À cette fin, la Conférence des présidents arrête le programme de contrôle et d'évaluation de l'assemblée concernée.
 
 Un jour de séance par mois est réservé à un ordre du jour arrêté par chaque assemblée à l'initiative des groupes d'opposition de l'assemblée intéressée ainsi qu'à celle des groupes minoritaires.
 
@@ -611,7 +621,7 @@ La République peut reconnaître la juridiction de la Cour pénale international
 
 ## Article 54
 
-Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
+Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par quarante députés ou quarante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
 
 
 ## Article 55
@@ -624,8 +634,6 @@ Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur p
 ## Article 56
 
 Le Conseil constitutionnel comprend neuf membres, dont le mandat dure neuf ans et n'est pas renouvelable. Le Conseil constitutionnel se renouvelle par tiers tous les trois ans. Trois des membres sont nommés par le Président de la République, trois par le président de l'Assemblée nationale, trois par le président du Sénat. La procédure prévue au dernier alinéa de l'article 13 est applicable à ces nominations. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée.
-
-En sus des neuf membres prévus ci-dessus, font de droit partie à vie du Conseil constitutionnel les anciens Présidents de la République.
 
 Le Président est nommé par le Président de la République. Il a voix prépondérante en cas de partage.
 
@@ -656,7 +664,7 @@ Le Conseil constitutionnel veille à la régularité des opérations de référe
 
 Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
 
-Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le Président de l'Assemblée nationale, le Président du Sénat ou soixante députés ou soixante sénateurs.
+Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le Président de l'Assemblée nationale, le Président du Sénat ou quarante députés ou quarante sénateurs.
 
 Dans les cas prévus aux deux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours.
 
@@ -707,11 +715,11 @@ La formation compétente à l'égard des magistrats du parquet est présidée pa
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
 
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les nominations qui concernent les magistrats du parquet.
+Les magistrats du parquet sont nommés sur l'avis conforme de la formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet.
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. Elle comprend alors, outre les membres visés au deuxième alinéa, le magistrat du siège appartenant à la formation compétente à l'égard des magistrats du parquet.
 
-La formation du Conseil supérieur de la magistrature compétente à l'égard des magistrats du parquet donne son avis sur les sanctions disciplinaires qui les concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
+La formation du Conseil supérieur de la magistrature compétente à l’égard des magistrats du parquet statue comme conseil de discipline des magistrats du parquet. Elle comprend alors, outre les membres visés au troisième alinéa, le magistrat du parquet appartenant à la formation compétente à l'égard des magistrats du siège.
 
 Le Conseil supérieur de la magistrature se réunit en formation plénière pour répondre aux demandes d'avis formulées par le Président de la République au titre de l'article 64. Il se prononce, dans la même formation, sur les questions relatives à la déontologie des magistrats ainsi que sur toute question relative au fonctionnement de la justice dont le saisit le ministre de la justice. La formation plénière comprend trois des cinq magistrats du siège mentionnés au deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième alinéa, ainsi que le conseiller d'État, l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier président de la Cour de cassation, que peut suppléer le procureur général près cette cour.
 
@@ -762,50 +770,48 @@ Une loi organique fixe les conditions d'application du présent article.
 
 ## Article 68-1
 
-Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis.
+Les membres du Gouvernement sont responsables, dans les conditions de droit commun, des actes qui ne se rattachent pas directement à l'exercice de leurs attributions, y compris lorsqu'ils ont été accomplis à l'occasion de l'exercice de leurs fonctions.
 
-Ils sont jugés par la Cour de justice de la République.
+Ils sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. Leur responsabilité ne peut être mise en cause à raison de leur inaction que si le choix de ne pas agir leur est directement et personnellement imputable.
 
-La Cour de justice de la République est liée par la définition des crimes et délits ainsi que par la détermination des peines telles qu'elles résultent de la loi.
+Ils sont poursuivis et jugés devant les formations compétentes, composées de magistrats professionnels, de la cour d'appel de Paris.
 
+Le ministère public, la juridiction d'instruction ou toute personne qui se prétend lésée par un acte mentionné au deuxième alinéa saisit une commission des requêtes comprenant trois magistrats du siège à la Cour de cassation, dont l'un préside la commission, deux membres du Conseil d’État et deux magistrats de la Cour des comptes. La commission apprécie la suite à donner à la procédure et en ordonne soit le classement, soit la transmission au procureur général près la cour d’appel de Paris qui saisit alors la cour.
 
-## Article 68-2
-
-La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur sein et en nombre égal, par l'Assemblée nationale et par le Sénat après chaque renouvellement général ou partiel de ces assemblées et trois magistrats du siège à la Cour de cassation, dont l'un préside la Cour de justice de la République.
-
-Toute personne qui se prétend lésée par un crime ou un délit commis par un membre du Gouvernement dans l'exercice de ses fonctions peut porter plainte auprès d'une commission des requêtes.
-
-Cette commission ordonne soit le classement de la procédure, soit sa transmission au procureur général près la Cour de cassation aux fins de saisine de la Cour de justice de la République.
-
-Le procureur général près la Cour de cassation peut aussi saisir d'office la Cour de justice de la République sur avis conforme de la commission des requêtes.
-
-Une loi organique détermine les conditions d'application du présent article.
+La loi organique détermine les conditions d'application du présent article.
 
 
-## Article 68-3
-
-Les dispositions du présent titre sont applicables aux faits commis avant son entrée en vigueur.
-
-
-# Titre XI : Le Conseil économique, social et environnemental
+# Titre XI : La chambre de la société civile
 
 ## Article 69
 
-Le Conseil économique, social et environnemental, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de loi qui lui sont soumis.
+La Chambre de la société civile éclaire le Gouvernement et le Parlement, après avoir organisé la consultation du public, sur les enjeux économiques, sociaux et environnementaux et sur les conséquences à long terme des décisions prises par les pouvoirs publics.
 
-Un membre du Conseil économique, social et environnemental peut être désigné par celui-ci pour exposer devant les assemblées parlementaires l'avis du Conseil sur les projets ou propositions qui lui ont été soumis.
+Elle est composée de représentants de la société civile dont le nombre ne peut excéder cent-cinquante-cinq.
 
-Le Conseil économique, social et environnemental peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.
+La loi organique fixe les modalités d'application du présent article, notamment la composition et les règles de fonctionnement de la Chambre de la société civile.
 
 
 ## Article 70
 
-Le Conseil économique, social et environnemental peut être consulté par le Gouvernement et le Parlement sur tout problème de caractère économique, social ou environnemental. Le Gouvernement peut également le consulter sur les projets de loi de programmation définissant les orientations pluriannuelles des finances publiques. Tout plan ou tout projet de loi de programmation à caractère économique, social ou environnemental lui est soumis pour avis.
+La Chambre de la société civile peut être saisie par voie de pétition dans les conditions fixées par la loi organique. Après examen de la pétition, elle fait connaître au Gouvernement et au Parlement les suites qu'elle propose d'y donner. La loi organique détermine les conditions dans lesquelles les assemblées parlementaires prennent en considération ces pétitions et les suites que la Chambre propose d'y donner.
 
 
 ## Article 71
 
-La composition du Conseil économique, social et environnemental, dont le nombre de membres ne peut excéder deux cent trente-trois, et ses règles de fonctionnement sont fixées par une loi organique.
+La Chambre de la société civile est consultée sur les projets de loi ayant un objet économique, social ou environnemental.
+
+Elle peut être consultée par le Gouvernement sur les projets de loi de finances, les projets de loi de financement de la sécurité sociale, les projets de loi de programmation définissant les orientations pluriannuelles des finances publiques, les projets de loi pris en application des articles 38, 53, 73 ou 74-1, ou tout autre projet de loi, d'ordonnance ou de décret.
+
+Elle peut être consultée par les assemblées parlementaires sur les propositions de loi.
+
+Dans les cas prévus aux alinéas précédents, la Chambre de la société civile est consultée avant l'examen du texte par le Conseil d'État.
+
+La Chambre de la société civile peut désigner un de ses membres pour exposer devant les assemblées parlementaires son avis sur les projets ou propositions qui lui ont été soumis.
+
+Elle peut être consultée par le Gouvernement et le Parlement sur toute question à caractère économique, social ou environnemental.
+
+La loi organique détermine les conditions d'application du présent article.
 
 
 # Titre XI bis : Le Défenseur des droits
@@ -829,11 +835,11 @@ Le Défenseur des droits rend compte de son activité au Président de la Répub
 
 Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74. Toute autre collectivité territoriale est créée par la loi, le cas échéant en lieu et place d'une ou de plusieurs collectivités mentionnées au présent alinéa.
 
-Les collectivités territoriales ont vocation à prendre les décisions pour l'ensemble des compétences qui peuvent le mieux être mises en oeuvre à leur échelon.
+Les collectivités territoriales ont vocation à prendre les décisions pour l'ensemble des compétences qui peuvent le mieux être mises en oeuvre à leur échelon. Dans les conditions prévues par la loi organique et sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, la loi peut prévoir que certaines collectivités territoriales exercent des compétences, en nombre limité, dont ne disposent pas l'ensemble des collectivités de la même catégorie.
 
 Dans les conditions prévues par la loi, ces collectivités s'administrent librement par des conseils élus et disposent d'un pouvoir réglementaire pour l'exercice de leurs compétences.
 
-Dans les conditions prévues par la loi organique, et sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, les collectivités territoriales ou leurs groupements peuvent, lorsque, selon le cas, la loi ou le règlement l'a prévu, déroger, à titre expérimental et pour un objet et une durée limités, aux dispositions législatives ou réglementaires qui régissent l'exercice de leurs compétences.
+Dans les conditions prévues par la loi organique, et sauf lorsque sont en cause les conditions essentielles d'exercice d’une liberté publique ou d'un droit constitutionnellement garanti, les collectivités territoriales ou leurs groupements peuvent, lorsque, selon le cas, la loi ou le règlement l'a prévu, déroger, pour un objet limité, aux dispositions législatives ou réglementaires qui régissent l'exercice de leurs compétences, éventuellement après une expérimentation autorisée dans les mêmes conditions.
 
 Aucune collectivité territoriale ne peut exercer une tutelle sur une autre. Cependant, lorsque l'exercice d'une compétence nécessite le concours de plusieurs collectivités territoriales, la loi peut autoriser l'une d'entre elles ou un de leurs groupements à organiser les modalités de leur action commune.
 
@@ -880,19 +886,28 @@ Aucun changement, pour tout ou partie de l'une des collectivités mentionnées a
 Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut décider de consulter les électeurs d'une collectivité territoriale située outre-mer sur une question relative à son organisation, à ses compétences ou à son régime législatif. Lorsque la consultation porte sur un changement prévu à l'alinéa précédent et est organisée sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
 
 
+## Article 72-5
+
+La Corse est une collectivité à statut particulier au sens du premier alinéa de l'article 72.
+
+Les lois et règlements peuvent comporter des règles adaptées aux spécificités liées à son insularité ainsi qu'à ses caractéristiques géographiques, économiques ou sociales.
+
+Sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, ces adaptations peuvent être décidées par la collectivité de Corse dans les matières où s'exercent ses compétences et si elle y a été habilitée, selon le cas, par la loi ou le règlement. Ces adaptations sont décidées dans les conditions prévues par la loi organique.
+
+
 ## Article 73
 
 Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
 
-Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées selon le cas, par la loi ou par le règlement.
+Sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, les collectivités régies par le présent article peuvent, à leur demande, être habilitées par décret en conseil des ministres après avis du Conseil d'État, à fixer elles-mêmes les règles applicables sur leur territoire dans un nombre limité de matières pouvant relever du domaine de la loi ou du règlement.
 
-Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées, selon le cas, par la loi ou par le règlement, à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi ou du règlement.
+Ces habilitations sont confiées dans les conditions fixées par la loi organique.
 
 Ces règles ne peuvent porter sur la nationalité, les droits civiques, les garanties des libertés publiques, l'état et la capacité des personnes, l'organisation de la justice, le droit pénal, la procédure pénale, la politique étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et les changes, ainsi que le droit électoral. Cette énumération pourra être précisée et complétée par une loi organique.
 
-La disposition prévue aux deux précédents alinéas n'est pas applicable au département et à la région de La Réunion.
+Pour le département et la région de La Réunion, les habilitations prévues au deuxième alinéa s'appliquent uniquement dans les matières relevant de leurs compétences.
 
-Les habilitations prévues aux deuxième et troisième alinéas sont décidées, à la demande de la collectivité concernée, dans les conditions et sous les réserves prévues par une loi organique. Elles ne peuvent intervenir lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti.
+Chaque session ordinaire, le Gouvernement dépose un projet de loi de ratification des actes des collectivités pris en application du deuxième alinéa dans le domaine de la loi. Ces actes deviennent caducs en l'absence de ratification par le Parlement dans le délai de vingt-quatre mois suivant l'habilitation.
 
 La création par la loi d'une collectivité se substituant à un département et une région d'outre-mer ou l'institution d'une assemblée délibérante unique pour ces deux collectivités ne peut intervenir sans qu'ait été recueilli, selon les formes prévues au second alinéa de l'article 72-4, le consentement des électeurs inscrits dans le ressort de ces collectivités.
 
@@ -1020,7 +1035,7 @@ L'Assemblée nationale ou le Sénat peuvent émettre un avis motivé sur la conf
 
 Chaque assemblée peut former un recours devant la Cour de justice de l'Union européenne contre un acte législatif européen pour violation du principe de subsidiarité. Ce recours est transmis à la Cour de justice de l'Union européenne par le Gouvernement.
 
-À cette fin, des résolutions peuvent être adoptées, le cas échéant en dehors des sessions, selon des modalités d'initiative et de discussion fixées par le règlement de chaque assemblée. À la demande de soixante députés ou de soixante sénateurs, le recours est de droit.
+À cette fin, des résolutions peuvent être adoptées, le cas échéant en dehors des sessions, selon des modalités d'initiative et de discussion fixées par le règlement de chaque assemblée. À la demande de quarante députés ou quarante sénateurs, le recours est de droit.
 
 
 ## Article 88-7
