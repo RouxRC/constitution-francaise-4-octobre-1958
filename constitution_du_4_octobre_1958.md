@@ -235,6 +235,8 @@ Une loi organique fixe les conditions dans lesquelles il est pourvu au remplacem
 
 Le remplacement des membres du Parlement a lieu conformément aux dispositions de l'article 25.
 
+Les fonctions de membre du Gouvernement sont également incompatibles, dans les conditions fixées par la loi organique, avec l’exercice d’une fonction exécutive ou de présidence d’assemblée délibérante au sein des collectivités régies par les titres XII et XIII, de leurs groupements et de certaines personnes morales qui en dépendent.
+
 
 # Titre IV : Le Parlement
 
