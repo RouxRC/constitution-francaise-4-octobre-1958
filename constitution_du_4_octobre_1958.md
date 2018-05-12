@@ -178,7 +178,7 @@ Le Parlement se réunit de plein droit.
 
 L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs exceptionnels.
 
-Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
+Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, quarante députés ou quarante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
 
 
 ## Article 17
@@ -621,7 +621,7 @@ La République peut reconnaître la juridiction de la Cour pénale international
 
 ## Article 54
 
-Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
+Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier ministre, par le président de l'une ou l'autre assemblée ou par quarante députés ou quarante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
 
 
 ## Article 55
@@ -664,7 +664,7 @@ Le Conseil constitutionnel veille à la régularité des opérations de référe
 
 Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
 
-Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le Président de l'Assemblée nationale, le Président du Sénat ou soixante députés ou soixante sénateurs.
+Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le Président de l'Assemblée nationale, le Président du Sénat ou quarante députés ou quarante sénateurs.
 
 Dans les cas prévus aux deux alinéas précédents, le Conseil constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours.
 
@@ -1028,7 +1028,7 @@ L'Assemblée nationale ou le Sénat peuvent émettre un avis motivé sur la conf
 
 Chaque assemblée peut former un recours devant la Cour de justice de l'Union européenne contre un acte législatif européen pour violation du principe de subsidiarité. Ce recours est transmis à la Cour de justice de l'Union européenne par le Gouvernement.
 
-À cette fin, des résolutions peuvent être adoptées, le cas échéant en dehors des sessions, selon des modalités d'initiative et de discussion fixées par le règlement de chaque assemblée. À la demande de soixante députés ou de soixante sénateurs, le recours est de droit.
+À cette fin, des résolutions peuvent être adoptées, le cas échéant en dehors des sessions, selon des modalités d'initiative et de discussion fixées par le règlement de chaque assemblée. À la demande de quarante députés ou quarante sénateurs, le recours est de droit.
 
 
 ## Article 88-7
